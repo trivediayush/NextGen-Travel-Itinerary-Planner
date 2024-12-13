@@ -1,50 +1,88 @@
-# Welcome to your Expo app 👋
+<h2>Overview</h2>
+<p>The <strong>Travel Itinerary Application</strong> is a digital tool designed to simplify and enhance the travel planning process. This app provides users with a centralized platform to create, manage, and share travel itineraries effortlessly. By integrating various travel-related services—such as flight bookings, hotel recommendations, and activity planning—the application ensures a seamless and enjoyable travel experience.</p>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<h2>Features</h2>
+<ul>
+    <li><strong>Personalized Itinerary Generation:</strong> Generate customized travel itineraries using a trained AI model powered by the Gemini API.</li>
+    <li><strong>Budget Management:</strong> Tailor travel plans based on the user’s specified budget.</li>
+    <li><strong>Group Travel Planning:</strong> Input the number of travelers and plan accordingly.</li>
+    <li><strong>Date-specific Planning:</strong> Schedule activities and reservations for specific travel dates.</li>
+    <li><strong>Integrated Services:</strong> Book flights, find hotels, and discover activities directly within the app.</li>
+    <li><strong>Interactive Visuals:</strong> Display itineraries with images and videos for better visualization.</li>
+    <li><strong>Firebase Integration:</strong> Secure user authentication and data storage.</li>
+</ul>
 
-## Get started
+<h2>Technology Stack</h2>
+<ul>
+    <li><strong>Frontend:</strong> Expo and React Native</li>
+    <li><strong>Backend:</strong> Firebase</li>
+    <li><strong>AI Model:</strong> Gemini API for itinerary generation</li>
+</ul>
 
-1. Install dependencies
+<h2>Installation</h2>
+<ol>
+    <li>Clone the repository:
+        <pre><code>git clone https://github.com/your-username/travel-itinerary-app.git</code></pre>
+    </li>
+    <li>Navigate to the project directory:
+        <pre><code>cd travel-itinerary-app</code></pre>
+    </li>
+    <li>Install dependencies:
+        <pre><code>npm install</code></pre>
+    </li>
+    <li>Start the application:
+        <pre><code>expo start</code></pre>
+    </li>
+</ol>
 
-   ```bash
-   npm install
-   ```
+<h2>Usage</h2>
+<ol>
+    <li>Sign up or log in using your email credentials.</li>
+    <li>Enter travel details including budget, number of travelers, and travel dates.</li>
+    <li>View the generated itinerary with suggested flights, hotels, and activities.</li>
+    <li>Customize and save your itinerary.</li>
+    <li>Share your itinerary with others or export it for offline use.</li>
+</ol>
 
-2. Start the app
+<h2>Screenshots and Videos</h2>
+<p>To showcase your application, you can add images and videos in this section:</p>
 
-   ```bash
-    npx expo start
-   ```
+<h3>Example:</h3>
+<p><strong>Home Screen:</strong></p>
+<img src="path/to/home-screen-image.png" alt="Home Screen">
 
-In the output, you'll find options to open the app in a
+<p><strong>Itinerary Preview:</strong></p>
+<img src="path/to/itinerary-preview-image.png" alt="Itinerary Preview">
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+<p><strong>Demo Video:</strong></p>
+<a href="path/to/demo-video.mp4">Watch the Demo</a>
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+<h2>Collaboration</h2>
+<h3>Team Members</h3>
+<ul>
+    <li><a href="https://github.com/your-username">Your Name</a>: Role and contributions</li>
+    <li><a href="https://github.com/collaborator-username">Collaborator Name</a>: Role and contributions</li>
+    <li><a href="https://github.com/collaborator-username">Collaborator Name</a>: Role and contributions</li>
+</ul>
 
-## Get a fresh project
+<h3>Contribution Guidelines</h3>
+<ol>
+    <li>Fork the repository.</li>
+    <li>Create a new branch:
+        <pre><code>git checkout -b feature-name</code></pre>
+    </li>
+    <li>Make your changes and commit them:
+        <pre><code>git commit -m "Description of changes"</code></pre>
+    </li>
+    <li>Push to the branch:
+        <pre><code>git push origin feature-name</code></pre>
+    </li>
+    <li>Open a pull request.</li>
+</ol>
 
-When you're ready, run:
+<h2>License</h2>
+<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
-```bash
-npm run reset-project
-```
+<hr>
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<p>Feel free to customize this README further with additional details or updates about the project.</p>
