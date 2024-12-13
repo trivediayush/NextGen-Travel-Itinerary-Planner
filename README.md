@@ -47,12 +47,24 @@
 <h2>Screenshots and Videos</h2>
 <p>To showcase your application, you can add images and videos in this section:</p>
 
-<h3>Example:</h3>
-<p><strong>Home Screen:</strong></p>
-<img src="Screenshots/welcome.jpg" alt="Home Screen">
-
-<p><strong>Itinerary Preview:</strong></p>
-<img src="path/to/itinerary-preview-image.png" alt="Itinerary Preview">
+<div class="image-gallery">
+    <img src="Screenshots/welcome.jpg" alt="Welcome Screen">
+    <img src="Screenshots/login.jpg" alt="Login Screen">
+    <img src="Screenshots/createaccount.jpg" alt="Create Account Screen">
+    <img src="Screenshots/list0.jpg" alt="MyTrips">
+    <img src="Screenshots/searchsuggestion.jpg" alt="Search Page">
+    <img src="Screenshots/travelling.jpg" alt="Traveler's Page">
+    <img src="Screenshots/date.jpg" alt="Date Screen">
+    <img src="Screenshots/budget.jpg" alt="Budget Screen">
+    <img src="Screenshots/review.jpg" alt="Review Screen">
+    <img src="Screenshots/load.jpg" alt="Loading Screen">
+    <img src="Screenshots/list.jpg" alt="Triplist Page">
+    <img src="Screenshots/discover.jpg" alt="Discover Page">
+    <img src="Screenshots/profile.jpg" alt="Profile Screen">
+    <img src="Screenshots/details.jpg" alt="Details Screen">
+    <img src="Screenshots/itinerary1.jpg" alt="Itinerary Screen">
+    <img src="Screenshots/itinerary2.jpg" alt="Itinerary Screen">
+</div>
 
 <p><strong>Demo Video:</strong></p>
 <a href="Screenshots/video.mp4">Watch the Demo</a>
@@ -60,9 +72,9 @@
 <h2>Collaboration</h2>
 <h3>Team Members</h3>
 <ul>
-    <li><a href="https://github.com/your-username">Your Name</a>: Role and contributions</li>
-    <li><a href="https://github.com/collaborator-username">Collaborator Name</a>: Role and contributions</li>
-    <li><a href="https://github.com/collaborator-username">Collaborator Name</a>: Role and contributions</li>
+    <li><a href="https://github.com/trivediayush">Ayush Trivedi</a></li>
+    <li><a href="https://github.com/AdityaBadgotiya">Aditya Badgotiya</a></li>
+    <li><a href="https://github.com/Sanskar-upadhyay">Sanskar Upadhyay</a></li>
 </ul>
 
 <h3>Contribution Guidelines</h3>
