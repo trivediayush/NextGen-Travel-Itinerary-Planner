@@ -6,9 +6,9 @@
     <li><strong>Personalized Itinerary Generation:</strong> Generate customized travel itineraries using a trained AI model powered by the Gemini API.</li>
     <li><strong>Budget Management:</strong> Tailor travel plans based on the user’s specified budget.</li>
     <li><strong>Group Travel Planning:</strong> Input the number of travelers and plan accordingly.</li>
-    <li><strong>Date-specific Planning:</strong> Schedule activities and reservations for specific travel dates.</li>
+    <li><strong>Date-specific Planning:</strong> Schedule activities for specific travel dates.</li>
     <li><strong>Integrated Services:</strong> Book flights, find hotels, and discover activities directly within the app.</li>
-    <li><strong>Interactive Visuals:</strong> Display itineraries with images and videos for better visualization.</li>
+    <li><strong>Interactive Visuals:</strong> Display itineraries with images for better visualization.</li>
     <li><strong>Firebase Integration:</strong> Secure user authentication and data storage.</li>
 </ul>
 
