@@ -49,13 +49,13 @@
 
 <h3>Example:</h3>
 <p><strong>Home Screen:</strong></p>
-<img src="path/to/home-screen-image.png" alt="Home Screen">
+<img src="Screenshots/welcome.jpg" alt="Home Screen">
 
 <p><strong>Itinerary Preview:</strong></p>
 <img src="path/to/itinerary-preview-image.png" alt="Itinerary Preview">
 
 <p><strong>Demo Video:</strong></p>
-<a href="path/to/demo-video.mp4">Watch the Demo</a>
+<a href="Screenshots/video.mp4">Watch the Demo</a>
 
 <h2>Collaboration</h2>
 <h3>Team Members</h3>
