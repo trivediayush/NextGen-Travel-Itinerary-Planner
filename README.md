@@ -93,7 +93,7 @@
 </ol>
 
 <h2>License</h2>
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+<p>This project is licensed under the <a href="LICENSE">Apache License <br>Version 2.0, January 2004</a>.</p>
 
 <hr>
 
