@@ -52,9 +52,9 @@
     <img src="Screenshots/login.jpg" alt="Login Screen">
     <img src="Screenshots/createaccount.jpg" alt="Create Account Screen">
     <img src="Screenshots/list0.jpg" alt="MyTrips">
-    <img src="Screenshots/searchsuggestion.jpg" alt="Search Page">
+    <img src="Screenshots/search.jpg" alt="Search Page">
     <img src="Screenshots/travelling.jpg" alt="Traveler's Page">
-    <img src="Screenshots/date.jpg" alt="Date Screen">
+    <img src="Screenshots/dates.jpg" alt="Date Screen">
     <img src="Screenshots/budget.jpg" alt="Budget Screen">
     <img src="Screenshots/review.jpg" alt="Review Screen">
     <img src="Screenshots/load.jpg" alt="Loading Screen">
